@@ -1,0 +1,1 @@
+tidak terdapat ddl dikarenakan file csv sudah langsung dimasukkan ke posgre menggunakan phyton
